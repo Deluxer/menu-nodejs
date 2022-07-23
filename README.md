@@ -8,7 +8,7 @@ Menu interactive in console.
 Create task
 Delete task
 Toggle
-Storage taks in txt file
+Storage taks in json file
 ```
 > Requirements
 
